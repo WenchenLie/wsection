@@ -1,8 +1,8 @@
 from Section import Section
 
 
-class WSection(Section):
-    section_type = 'W'
+class GBSection(Section):
+    section_type = 'GB'
 
     def __init__(self, section: str, fy: float=None):
         """get section property with given section name 
@@ -12,6 +12,6 @@ class WSection(Section):
             fy (float, optional): yield strength (Dafault to None).
 
         Example:
-            >>> section = WSection('W14x90', fy=345)
+            >>> section = GBSection('HW100x100', fy=345)
         """
-        super().__init__(section, fy, 'W')
+        super().__init__(section, fy, 'GB')
