@@ -1,3 +1,7 @@
 __pycache__
 test.py
 developer/
+setup.py
+dist/
+*.egg-info/
+
