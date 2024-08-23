@@ -1,1 +1,0 @@
-from wsection.WSection import *
