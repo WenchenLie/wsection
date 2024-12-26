@@ -1,5 +1,6 @@
 # w-section properties
 # d, bf, tf, bf_bottom, tf_bottom, tw, r, A, J, Iy, Ix, Alpha, Cy, Cx, Iw, Zy, Zx
+# 0  1   2   3          4          5   6  7  8  9   10  11     12  13  14  15  16
 # -------------------------------------------------------------------------------
 # d: Depth
 # bf: Top width
